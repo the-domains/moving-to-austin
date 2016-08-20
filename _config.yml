@@ -1,3 +1,4 @@
+layout_spectrum: 0.16212429269216955
 typography_spectrum: 0.8362563825212419
 color:
   brandStrength: 0.5000342773273587
@@ -10,9 +11,4 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.16212429269216955
-author:
-  name: Nate Gay
-  email: nate@ohnate.com
-name: 'Moving to Austin, TX'
-title: It's going to get weird
+name: Moving to Austin
